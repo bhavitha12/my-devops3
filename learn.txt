@@ -2,3 +2,5 @@ addition
 substraction
 mulitplication
 division
+rk
+gdgd
